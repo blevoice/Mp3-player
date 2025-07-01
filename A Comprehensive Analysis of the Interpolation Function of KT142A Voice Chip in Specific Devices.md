@@ -20,6 +20,8 @@ In devices such as game consoles and elevators, the interpolation function of vo
 ### 3.1 Interpolation Instructions
 - The interpolation instructions of KT142A follow specific rules.
     - For example, to interpolate the track "001" in the "ADVERT1" folder, the instruction is 7E 25 02 01 01 EF.
+ 
+![Folder path](https://github.com/blevoice/pic/blob/f3bc7d79cfe9ea3a8141cbc061f1c9ed3e747847/070101.jpeg)
 
 ### 3.2 Playback Instructions
 - For background music stored in folders such as "01/02", use the 0x0F instruction to specify playback or loop.
@@ -35,5 +37,10 @@ In devices such as game consoles and elevators, the interpolation function of vo
 - The prompt tone folders must be named as specified.
 - The original folders such as "01/02" need to be renamed.
 - Background music and prompt tones need to be managed in different folders of the same device, and cross - device calls are not allowed.
+
+![Xmind Diagram](https://github.com/blevoice/pic/blob/f3bc7d79cfe9ea3a8141cbc061f1c9ed3e747847/070102.png)
+
+![Actual Photo](https://github.com/blevoice/pic/blob/f3bc7d79cfe9ea3a8141cbc061f1c9ed3e747847/070103.jpeg)
+
 
 #VoiceChip #KT142A #InterpolationFunction #DeviceApplication
