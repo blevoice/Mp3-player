@@ -22,8 +22,11 @@ When it comes to the selection of voice chips with the requirements of independe
     - **Power - consumption Control**
         - **Standby State**：Through a low - power mode design, the battery life cycle is effectively extended.
         - **Playback State**：The audio decoding power consumption is optimized to balance sound quality and power consumption.
+        - 
+![Selection Xmind](https://github.com/blevoice/pic/blob/27693862d156708e4a785b8985c1a482d8383b32/070202%20-%20%E5%89%AF%E6%9C%AC.png)
 
 This chip is suitable for miniaturized devices such as e - greeting cards, toy sound - generating devices, and portable reminder devices. Moreover, it is very convenient to replace the built - in voice of the chip. Just connect it directly to a PC, and the voice can be replaced quickly.
 
-#VoiceChip #KT142C #ButtonBatteryPowerSupply #SOP16Package #LowPowerConsumption
+![KT142C Schematic](https://github.com/blevoice/pic/blob/27693862d156708e4a785b8985c1a482d8383b32/070201.png)
 
+#VoiceChip #KT142C #ButtonBatteryPowerSupply #SOP16Package #LowPowerConsumption
